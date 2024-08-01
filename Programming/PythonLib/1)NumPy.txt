@@ -1,0 +1,31 @@
+Common NumPy Operations
+Array Creation
+
+Create arrays using np.array(), np.zeros(), np.ones(), np.arange(), np.linspace(), etc.
+Array Operations
+
+Basic arithmetic operations (+, -, *, /)
+Exponential and logarithmic functions (np.exp(), np.log())
+Aggregation functions (np.sum(), np.mean(), np.median(), np.std())
+Indexing and Slicing
+
+Access elements using indexing
+Slice arrays
+Mathematical Functions
+
+Trigonometric functions (np.sin(), np.cos(), etc.)
+Statistical functions (np.min(), np.max(), np.argmax(), np.argmin())
+Linear Algebra
+
+Matrix operations (np.dot(), np.matmul())
+Eigenvalues and eigenvectors (np.linalg.eig())
+Reshaping and Manipulation
+
+Reshape arrays using np.reshape()
+Concatenate arrays using np.concatenate(), np.vstack(), np.hstack()
+Broadcasting
+
+Perform operations with arrays of different shapes
+Random Number Generation
+
+Generate random numbers using np.random.rand(), np.random.randint(), etc.
